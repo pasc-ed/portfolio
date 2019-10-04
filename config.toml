@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://portfolio.axlcreations.co.uk"
 title = "AxLCreations Portfolio"
 style = "default"
 theme = "hugo-creative-portfolio-theme"
