@@ -1,15 +1,15 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = 2016-11-05T15:35:33Z
 title = "About me"
 
 +++
-Hello there, my name is Axelle,
-
-![](/uploads/axl_awards.jpg)
+![](/uploads/1.jpg)![](/uploads/2.jpg)![](/uploads/3.jpg)
 
 #### Education
 
-* Abertay University, Dundee
-* University of Edinburgh
-
-I do Art stuff and, I'm really good at it !
+* The University of Edinburgh
+  * MSc Design and Digital Media
+* Abertay University
+  * BA Computer Arts
+* Edinburgh College
+  * HND 3D Computer Animation
