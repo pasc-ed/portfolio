@@ -3,7 +3,7 @@ date = 2016-11-05T15:35:33Z
 title = "About me"
 
 +++
-![](/uploads/1.jpg)![](/uploads/2.jpg)![](/uploads/3.jpg)
+![](/uploads/banner_webportfolio.jpg)
 
 #### Education
 
